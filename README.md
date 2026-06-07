@@ -18,9 +18,9 @@
 
 ```
 📁 repositorio/
-├── sorting_algorithms.py   # Implementação dos três algoritmos
-├── benchmark.py            # Script de testes: mede tempo e movimentações
-└── README.md               # Este arquivo
+├── sorting_algorithms.py   
+├── benchmark.py            
+└── README.md               
 ```
 
 ---
